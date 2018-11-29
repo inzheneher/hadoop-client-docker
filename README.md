@@ -8,4 +8,4 @@ this is docker build for hadoop client.
 3. you can also extend this image to build more application level services
 
 # Dockerhub
-https://cloud.docker.com/repository/docker/ryneyang/hadoop-client/general
+https://hub.docker.com/r/ryneyang/hadoop-client/
