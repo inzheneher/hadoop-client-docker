@@ -9,7 +9,7 @@ RUN yum -y install which
 # Setup env
 USER root
 ENV JAVA_HOME /usr/lib/jvm/jre-1.8.0
-ENV HADOOP_USER hdfs
+ENV HADOOP_USER root
 ENV HADOOP_PREFIX /usr/local/hadoop
 ENV HADOOP_COMMON_HOME /usr/local/hadoop
 ENV HADOOP_HDFS_HOME /usr/local/hadoop
